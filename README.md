@@ -1,2 +1,37 @@
-# Freedif-Mirror
-Freedif Mirror for Opensource projects - Servers in Singapore and Germany
+# Freedif Mirrors
+Github page of Freedif mirrors
+In case of issues with the mirrors, please raise an issue ticket
+Same if you want me to host new projects
+
+## 2 locations:
+Germany: de.freedif.org (1GBPS)
+Singapore: mirror.freedif.org (1GBPS)
+
+## Current projects being supported:
+Artix
+Deepin
+EndeavourOS
+fdroid
+Garuda
+GNU
+GNU-Al
+GNU-Sa
+KaOS
+KDE
+lineageos
+LinuxLiteOS
+LinuxMint
+Manjaro
+MXLinux
+osmc
+Parabola
+PCLinuxOS
+Raspbian
+Rocky
+Salix
+Tails
+TDF
+TorProject
+zorin
+
+Enjoy
