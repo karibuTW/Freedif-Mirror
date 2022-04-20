@@ -33,4 +33,9 @@ Same if you want me to host new projects.
 - TorProject
 - zorin
 
+## Next steps
+- [x] Add rsync script used
+- [] Add statistics script / detail (GoAccess, Vhost, Logs)
+- [] Structure demand request (Issue ticket to add a project on one of the servers)
+
 Enjoy
