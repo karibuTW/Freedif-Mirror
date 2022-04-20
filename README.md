@@ -1,7 +1,6 @@
 # Freedif Mirrors
-Github page of Freedif mirrors
-In case of issues with the mirrors, please raise an issue ticket
-Same if you want me to host new projects
+In case of issues with the mirrors, please raise an issue ticket.
+Same if you want me to host new projects.
 
 ## 2 locations:
 1. Germany: de.freedif.org (1GBPS)
