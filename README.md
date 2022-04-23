@@ -41,7 +41,9 @@ I use GoAccess to read the log (anonymized) and track various statistics
 
 ![image](https://user-images.githubusercontent.com/7557855/164883443-081e183a-672c-40a9-895d-28b41cee4d81.png)
 
-Full detail here: https://mirror.freedif.org/Stats/Combined.html
+Feel free to check the stats of the [Singapore mirror](https://mirror.freedif.org/Stats/Combined.html)
+
+If you want to replicate my setup, please check the wiki on [How to configure GoAccess](https://github.com/karibuTW/Freedif-Mirror/wiki/How-to-configure-GoAccess)
 
 ## Next steps
 - [x] Add rsync script used
