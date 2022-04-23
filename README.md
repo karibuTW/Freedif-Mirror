@@ -6,6 +6,9 @@ Same if you want me to host new projects.
 1. Germany: de.freedif.org (1GBPS)
 2. Singapore: mirror.freedif.org (1GBPS)
 
+I have the possibility to enable one mirror in France (OVH) and one in Finland (Hetzner),
+But I'm principally focusing on Singapore, as usually being less covered in term of mirrors.
+
 ## Current projects being supported:
 - Artix
 - Deepin
@@ -32,6 +35,11 @@ Same if you want me to host new projects.
 - TDF
 - TorProject
 - zorin
+
+## Statistics
+I use GoAccess to read the log (anonymized) and track various statistics
+![image](https://user-images.githubusercontent.com/7557855/164883408-b70ac202-818b-4e40-8895-24b9da66234b.png)
+Full detail here: https://mirror.freedif.org/Stats/Combined.html
 
 ## Next steps
 - [x] Add rsync script used
