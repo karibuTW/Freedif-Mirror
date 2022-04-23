@@ -47,7 +47,7 @@ If you want to replicate my setup, please check the wiki on [How to configure Go
 
 ## Next steps
 - [x] Add rsync script used
-- [ ] Add statistics script / detail (GoAccess, Vhost, Logs)
+- [x] Add statistics script / detail (GoAccess, Vhost, Logs)
 - [ ] Structure demand request (Issue ticket to add a project on one of the servers)
 
 Enjoy
