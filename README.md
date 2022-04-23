@@ -38,6 +38,7 @@ But I'm principally focusing on Singapore, as usually being less covered in term
 
 ## Statistics
 I use GoAccess to read the log (anonymized) and track various statistics
+
 ![image](https://user-images.githubusercontent.com/7557855/164883443-081e183a-672c-40a9-895d-28b41cee4d81.png)
 
 Full detail here: https://mirror.freedif.org/Stats/Combined.html
