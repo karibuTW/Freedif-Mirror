@@ -2,7 +2,7 @@
 In case of issues with the mirrors, please raise an issue ticket.
 Same if you want me to host new projects.
 
-## Llocation:
+## Location:
 Singapore: mirror.freedif.org (10GBPS)
 
 ## Current projects being supported:
