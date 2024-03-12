@@ -2,12 +2,8 @@
 In case of issues with the mirrors, please raise an issue ticket.
 Same if you want me to host new projects.
 
-## 2 locations:
-1. Germany: de.freedif.org (1GBPS)
-2. Singapore: mirror.freedif.org (1GBPS)
-
-I have the possibility to enable one mirror in France (OVH) and one in Finland (Hetzner),
-But I'm principally focusing on Singapore, as usually being less covered in term of mirrors.
+## Llocation:
+Singapore: mirror.freedif.org (10GBPS)
 
 ## Current projects being supported:
 - Artix
