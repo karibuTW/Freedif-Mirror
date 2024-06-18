@@ -4,6 +4,7 @@ Same if you want me to host new projects.
 
 ## Location:
 Singapore: mirror.freedif.org (10GBPS)
+~~Germany: de.freedif.org~~ (Decommissioned)
 
 ## Current projects being supported:
 - Artix
