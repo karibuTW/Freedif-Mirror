@@ -7,30 +7,49 @@ Singapore: mirror.freedif.org (10GBPS)
 
 ## Current projects being supported:
 - Artix
+- Blender
+- BLFS/LFS
+- cclinux
+- CentOS
 - Deepin
 - EndeavourOS
 - fdroid
-- Garuda
-- GNU
-- GNU-Al
+- Fedora
+- Gentoo
+- Gimp
+- GNU-alpha
 - GNU-Sa
+- GNU
+- Ipfire
+- Jenkins
+- Kali
 - KaOS
 - KDE
-- lineageos
+- Kodi
+- Libreelec
+- Lineageos
 - LinuxLiteOS
 - LinuxMint
 - Manjaro
 - MXLinux
-- osmc
+- OpenBSD
+- OpenMamba
+- OpenSUS
+- Openvz
+- Osmc
 - Parabola
 - PCLinuxOS
 - Raspbian
+- RebornOS
 - Rocky
 - Salix
 - Tails
 - TDF
+- Termux
 - TorProject
-- zorin
+- Trisquel
+- Videolan
+- Zorin
 
 ## Statistics
 I use GoAccess to read the log (anonymized) and track various statistics
