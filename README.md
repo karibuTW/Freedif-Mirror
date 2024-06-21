@@ -14,6 +14,8 @@ Singapore: mirror.freedif.org (10GBPS)
 - CentOS
 - Deepin
 - EndeavourOS
+- EndlessOS
+- eFA Project
 - fdroid
 - Fedora
 - Gentoo
@@ -34,6 +36,7 @@ Singapore: mirror.freedif.org (10GBPS)
 - Manjaro
 - MXLinux
 - OpenBSD
+- OpenMandriva
 - OpenMamba
 - OpenSUS
 - Openvz
