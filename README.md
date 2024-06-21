@@ -56,7 +56,7 @@ Singapore: mirror.freedif.org (10GBPS)
 - Zorin
 
 ## Statistics
-I use GoAccess to read the log (anonymized) and track various statistics
+I use GoAccess to read the log (anonymized) and track various statistics. As of June 2024, the server is serving around 10TB per day
 
 ![image](https://user-images.githubusercontent.com/7557855/164883443-081e183a-672c-40a9-895d-28b41cee4d81.png)
 
