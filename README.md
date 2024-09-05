@@ -51,7 +51,7 @@ Singapore: mirror.freedif.org (10GBPS)
 - TDF
 - Termux
 - TorProject
-- Trisquel
+- ~~Trisquel~~ (No communication from project admin, little to no traffic)
 - Videolan
 - Zorin
 
