@@ -1,74 +1,42 @@
 # Freedif Mirrors
-In case of issues with the mirrors, please raise an issue ticket.
-Same if you want me to host new projects.
 
-## Location:
-Singapore: mirror.freedif.org (10GBPS)
-~~Germany: de.freedif.org~~ (Decommissioned)
+Singapore's high-performance open source mirror serving the APAC region.
 
-## Current projects being supported:
-- Artix
-- Blender
-- BLFS/LFS
-- cclinux
-- CentOS
-- Deepin
-- EndeavourOS
-- EndlessOS
-- eFA Project
-- fdroid
-- Fedora
-- Gentoo
-- Gimp
-- GNU-alpha
-- GNU-Sa
-- GNU
-- Ipfire
-- Jenkins
-- Kali
-- KaOS
-- KDE
-- Kodi
-- Libreelec
-- Lineageos
-- LinuxLiteOS
-- LinuxMint
-- Manjaro
-- MXLinux
-- OpenBSD
-- OpenMandriva
-- OpenMamba
-- OpenSUS
-- Openvz
-- Osmc
-- Parabola
-- PCLinuxOS
-- Raspbian
-- RebornOS
-- Rocky
-- Salix
-- Tails
-- TDF
-- Termux
-- Terra
-- TorProject
-- ~~Trisquel~~ (No communication from project admin, little to no traffic)
-- Ultramarine Linux (packages)
-- Videolan
-- Zorin
+**Issues?** [Open a ticket](https://github.com/karibuTW/Freedif-Mirror/issues)  
+**Want to add a project?** [Request it here](https://github.com/karibuTW/Freedif-Mirror/issues/new)
+
+## Infrastructure
+
+**Location:** Singapore  
+**OS:** Debian 13  
+**CPU:** AMD Ryzen 9950X  
+**RAM:** 192GB (180GB ZFS ARC Cache)  
+**Storage:** 100TB raw (88TB usable, ZFS RAIDZ2)  
+**L2ARC:** 4TB Samsung 990 PRO NVMe  
+**Network:** 10 Gbps  
+**Traffic:** ~25TB/day upload  
+
+## Supported Projects
+
+Alma • Arch • Artix • Blender • BLFS • cclinux • CentOS • Debian • Deepin • EndeavourOS • EndlessOS • F-Droid • Fedora • Gentoo • GIMP • GNU • GNU-alpha • GNU-Savannah • IPFire • Jenkins • Kali • KaOS • KDE • Kodi • LFS • LibreELEC • LineageOS • LinuxLite • LinuxMint • Manjaro • MX Linux • OpenBSD • OpenMandriva • OpenMamba • OpenSUSE • OpenVZ • OSMC • Parabola • PCLinuxOS • Raspbian • RebornOS • Rocky • Salix • Tails • TDF • Termux • Terra • TorProject • Ubuntu • Ultramarine • VLC • Void • Zorin
 
 ## Statistics
-I use GoAccess to read the log (anonymized) and track various statistics. As of June 2024, the server is serving around 10TB per day
 
-![image](https://user-images.githubusercontent.com/7557855/164883443-081e183a-672c-40a9-895d-28b41cee4d81.png)
+Being monitored with Grafana/Prometheus
+Example: https://snapshots.raintank.io/dashboard/snapshot/6KFyG6WUGeVsU4UWacO7bYXTS9FeFxh9
 
-Feel free to check the stats of the [Singapore mirror](https://mirror.freedif.org/Stats/Combined.html)
+## Mirror Access
 
-If you want to replicate my setup, please check the wiki on [How to configure GoAccess](https://github.com/karibuTW/Freedif-Mirror/wiki/How-to-configure-GoAccess)
+**HTTPS:**
+```
+https://mirror.freedif.org/<project>/
+```
 
-## Next steps
-- [x] Add rsync script used
-- [x] Add statistics script / detail (GoAccess, Vhost, Logs)
-- [ ] Structure demand request (Issue ticket to add a project on one of the servers)
+**Rsync (where available):**
+```
+rsync://mirror.freedif.org/<project>/
+```
 
-Enjoy
+---
+
+**Maintained by:** [@karibuTW](https://github.com/karibuTW)
