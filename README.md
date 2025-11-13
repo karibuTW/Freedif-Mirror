@@ -50,8 +50,10 @@ Singapore: mirror.freedif.org (10GBPS)
 - Tails
 - TDF
 - Termux
+- Terra
 - TorProject
 - ~~Trisquel~~ (No communication from project admin, little to no traffic)
+- Ultramarine Linux (packages)
 - Videolan
 - Zorin
 
